@@ -14,8 +14,8 @@ The ECG Signal Quality Index (SQI) Toolkit provides a set of tools for analyzing
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ecg-sqi-toolkit.git
-cd ecg-sqi-toolkit
+git clone https://github.com/dkarnani1/ECG-SQI-Toolkit.git
+cd ECG-SQI-Toolkit
 ```
 
 Install the required dependencies:
