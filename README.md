@@ -13,16 +13,16 @@ The ECG Signal Quality Index (SQI) Toolkit provides a set of tools for analyzing
 ### Installation
 Clone the repository to your local machine:
 
-\```bash
+```bash
 git clone https://github.com/your-username/ecg-sqi-toolkit.git
 cd ecg-sqi-toolkit
-\```
+```
 
 Install the required dependencies:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ### Usage
 The toolkit can be used to process ECG signals for SQI computation. Below is a brief overview of how to use the scripts:
@@ -36,9 +36,9 @@ The toolkit can be used to process ECG signals for SQI computation. Below is a b
 
 To compute the SQI of an ECG signal, you can use the following command:
 
-\```bash
+```bash
 python example_sqi_calculation.py
-\```
+```
 
 ## Acknowledgments
 - [PhysioNet Cardiovascular Signal Toolbox](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox) for providing the ECG signal databases.
