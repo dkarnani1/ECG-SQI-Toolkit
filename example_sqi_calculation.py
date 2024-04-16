@@ -10,10 +10,10 @@ from jqrs import jqrs
 def initialize_HRVparams(fs):
     return {
         'sqi': {
-            'windowlength': 180,
+            'windowlength': 30,
             'TimeThreshold': 0.1,
             'margin': 0.05,
-            'increment': 100
+            'increment': 30 #window length and increment should be same
         },
         'Fs': fs,
         'PeakDetect': {
